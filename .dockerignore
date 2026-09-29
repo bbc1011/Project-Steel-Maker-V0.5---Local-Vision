@@ -1,0 +1,15 @@
+.git
+.github
+.env
+.venv
+__pycache__
+*.pyc
+*.db
+debug_boxes
+runs
+dataset/images
+dataset/labels
+models/*.pt
+models/*.onnx
+models/*.engine
+lego_deal_finder*.zip
